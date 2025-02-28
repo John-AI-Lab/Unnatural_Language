@@ -1,0 +1,8 @@
+.git
+.nvim
+.vscode
+.DS_Store
+
+# pyproject.toml
+
+*/.DS_Store

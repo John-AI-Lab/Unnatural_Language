@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+ml_collections
+fire
+pandas
+openai
+tenacity # used for API request
+sentencepiece # used by llama-2
+bitsandbytes # used by llama-2
+protobuf # used by llama-2 tokenizer
+peft@git+https://github.com/huggingface/peft
+fschat@git+https://github.com/lm-sys/FastChat
+trl
