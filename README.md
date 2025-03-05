@@ -3,7 +3,7 @@
 
 [![HuggingFace space](https://img.shields.io/badge/🤗-HuggingFace%20Datasets-yellow.svg)](https://huggingface.co/collections/vermouthdky/unnatural-language-67bbdf636dbc3ed024adb478)
 [![HuggingFace space](https://img.shields.io/badge/🤗-HuggingFace%20Models-blue.svg)](https://huggingface.co/collections/vermouthdky/unnatural-lima-models-67c16233a4bb474653e9f458)
-
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2503.01926)
 
 ![framework](./assets/framework.png)
 
@@ -71,5 +71,13 @@ We build an unnatural version of LIMA and tune models with various size using st
 
 If you find our repo useful, please consider citing
 ```bibtex
-{}
+@misc{duan2025unnaturallanguagesbugsfeatures,
+      title={Unnatural Languages Are Not Bugs but Features for LLMs}, 
+      author={Keyu Duan and Yiran Zhao and Zhili Feng and Jinjie Ni and Tianyu Pang and Qian Liu and Tianle Cai and Longxu Dou and Kenji Kawaguchi and Anirudh Goyal and J. Zico Kolter and Michael Qizhe Shieh},
+      year={2025},
+      eprint={2503.01926},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.01926}, 
+}
 ```
