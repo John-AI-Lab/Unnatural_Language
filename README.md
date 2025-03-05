@@ -31,7 +31,7 @@ LICENSE for more details.
 | Dataset | Description | 🤗 Download |
 |--------------|---------------|-----|
 | Unnatural SynContextQA | Synthetic Datasets For Unnatural Language Question Answering | [Link](https://huggingface.co/datasets/vermouthdky/Unnatural_SynContextQA) |
-| Unnatural SimGSM8K | A subset of GSM8K For Unnatural Language Question Answering | [Link]((https://huggingface.co/datasets/vermouthdky/Unnatural_SimGSM8K)) |
+| Unnatural SimGSM8K | A subset of GSM8K For Unnatural Language Question Answering | [Link](https://huggingface.co/datasets/vermouthdky/Unnatural_SimGSM8K) |
 | Unnatural LIMA | An Unnatural Version of [LIMA](https://huggingface.co/datasets/GAIR/lima) for Instruction Tuning | [Link](https://huggingface.co/datasets/vermouthdky/Unnatural_LIMA) |
 
 ### Unnatural Models
