@@ -7,6 +7,9 @@
 
 ![framework](./assets/framework.png)
 
+## 🔥 Updates
+- Our paper is accpeted by ICML 2025! Please check out the paper [here](https://arxiv.org/abs/2503.01926).
+
 ## Installation
 
 ```bash
